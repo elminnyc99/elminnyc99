@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning solidity and rust.
 - 💞️ I’m looking to collaborate on learning and researching vulnerabilities in Web3.
 - 📫 How to reach me: elminnyc99@gmail.com
-- 😄 Pronouns: Elm
+- 😄 Pronouns: he/his
 - ⚡ Fun fact: I love to watch Running Man and K-drama.
 
 <!---
